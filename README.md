@@ -1,6 +1,6 @@
 # ShiftHandler
 
-### Upadte on 3/6
+### Update on 3/6
 We have uploaded the code for the cardinality estimation experiment and polished some of the code.
 
 We will upload code for experiments of the other two DB components soon, and further polish the code.
